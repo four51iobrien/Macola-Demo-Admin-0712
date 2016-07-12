@@ -1,0 +1,13 @@
+{
+  "appname": "Macola Demo Admin 0712",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "80585E13-4DCF-4004-A1D4-6E5D999A7737",
+  "buyerid": null,
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
