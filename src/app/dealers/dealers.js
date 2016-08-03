@@ -1,0 +1,3 @@
+angularModule('OrderCloud')
+
+.config(DealerConfig)
